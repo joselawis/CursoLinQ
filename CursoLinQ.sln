@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ2_Metodos", "Curso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ3_Customer", "CursoLinQ3_Customer\CursoLinQ3_Customer.csproj", "{AE00575F-B900-40F3-8A3F-A87E58B6C434}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ4_Orderby", "CursoLinQ4_Orderby\CursoLinQ4_Orderby.csproj", "{5E454EDB-7E77-49C9-8946-07A5AA0CAEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ5_EjercicioOrderBy", "CursoLinQ5_EjercicioOrderBy\CursoLinQ5_EjercicioOrderBy.csproj", "{77852BF6-755B-499C-8A40-4A2DA271FE6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{AE00575F-B900-40F3-8A3F-A87E58B6C434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE00575F-B900-40F3-8A3F-A87E58B6C434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE00575F-B900-40F3-8A3F-A87E58B6C434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E454EDB-7E77-49C9-8946-07A5AA0CAEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E454EDB-7E77-49C9-8946-07A5AA0CAEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E454EDB-7E77-49C9-8946-07A5AA0CAEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E454EDB-7E77-49C9-8946-07A5AA0CAEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77852BF6-755B-499C-8A40-4A2DA271FE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77852BF6-755B-499C-8A40-4A2DA271FE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77852BF6-755B-499C-8A40-4A2DA271FE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77852BF6-755B-499C-8A40-4A2DA271FE6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
