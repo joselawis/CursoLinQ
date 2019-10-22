@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ4_Orderby", "Curso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ5_EjercicioOrderBy", "CursoLinQ5_EjercicioOrderBy\CursoLinQ5_EjercicioOrderBy.csproj", "{77852BF6-755B-499C-8A40-4A2DA271FE6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ6_TransfSelect", "CursoLinQ6_TransfSelect\CursoLinQ6_TransfSelect.csproj", "{D93F0323-EAA0-4F63-A007-59B20FDF988F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{77852BF6-755B-499C-8A40-4A2DA271FE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77852BF6-755B-499C-8A40-4A2DA271FE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77852BF6-755B-499C-8A40-4A2DA271FE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93F0323-EAA0-4F63-A007-59B20FDF988F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93F0323-EAA0-4F63-A007-59B20FDF988F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93F0323-EAA0-4F63-A007-59B20FDF988F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93F0323-EAA0-4F63-A007-59B20FDF988F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
