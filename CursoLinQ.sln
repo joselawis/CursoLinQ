@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ9_MultiJoin", "Cur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ10_lambda", "CursoLinQ10_lambda\CursoLinQ10_lambda.csproj", "{B1B1CAF9-8145-44D2-8C45-5E3F4F7235ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ11_lambda2", "CursoLinQ11_lambda2\CursoLinQ11_lambda2.csproj", "{DCDCEB17-B845-4EF8-9DFA-874D0D44EFD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B1B1CAF9-8145-44D2-8C45-5E3F4F7235ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B1CAF9-8145-44D2-8C45-5E3F4F7235ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B1CAF9-8145-44D2-8C45-5E3F4F7235ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDCEB17-B845-4EF8-9DFA-874D0D44EFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDCEB17-B845-4EF8-9DFA-874D0D44EFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDCEB17-B845-4EF8-9DFA-874D0D44EFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDCEB17-B845-4EF8-9DFA-874D0D44EFD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
