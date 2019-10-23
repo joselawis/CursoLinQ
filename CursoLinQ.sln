@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ7_Join", "CursoLin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ8_MultipleJoin", "CursoLinQ8_MultipleJoin\CursoLinQ8_MultipleJoin.csproj", "{72C7ED54-5CC8-41AD-9B49-D37F218B5BAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ9_MultiJoin", "CursoLinQ9_MultiJoin\CursoLinQ9_MultiJoin.csproj", "{E2520655-F9BC-450A-A292-38EF24896374}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{72C7ED54-5CC8-41AD-9B49-D37F218B5BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72C7ED54-5CC8-41AD-9B49-D37F218B5BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72C7ED54-5CC8-41AD-9B49-D37F218B5BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2520655-F9BC-450A-A292-38EF24896374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2520655-F9BC-450A-A292-38EF24896374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2520655-F9BC-450A-A292-38EF24896374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2520655-F9BC-450A-A292-38EF24896374}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
