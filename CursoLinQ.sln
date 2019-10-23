@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ13_lambdaOrderby",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQ14_lambda", "CursoLinQ14_lambda\CursoLinQ14_lambda.csproj", "{1D13C606-CB14-47CB-9A4C-D58CCA3B9C59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinQSeccion2_Examen", "CursoLinQSeccion2_Examen\CursoLinQSeccion2_Examen.csproj", "{BF30C90D-18C5-4374-A28A-E69DF121D3B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{1D13C606-CB14-47CB-9A4C-D58CCA3B9C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D13C606-CB14-47CB-9A4C-D58CCA3B9C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D13C606-CB14-47CB-9A4C-D58CCA3B9C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF30C90D-18C5-4374-A28A-E69DF121D3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF30C90D-18C5-4374-A28A-E69DF121D3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF30C90D-18C5-4374-A28A-E69DF121D3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF30C90D-18C5-4374-A28A-E69DF121D3B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
