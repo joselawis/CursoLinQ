@@ -24,8 +24,8 @@ namespace CursoLinQ8_MultipleJoin
 
             List<Producto> listaProducto = new List<Producto>
             {
-                new Producto{idProducto=1, nombre="Manguito clasico que bacaneria", idCategoria=1},
-                new Producto{idProducto=2, nombre="Coles de bruselas", idCategoria=2}
+                new Producto{idProducto=1, nombre="Manguito clasico que bacaneria", idCategoria=1, idProveedor=2},
+                new Producto{idProducto=2, nombre="Coles de bruselas", idCategoria=2, idProveedor=1}
             };
 
             // El producto es nombreProducto, su categoria es nombreCategoria y su proveedor es nombreProveedor
